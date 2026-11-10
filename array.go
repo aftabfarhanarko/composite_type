@@ -3,7 +3,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mdfain() {
 	fmt.Println("Composite Type - Array")
 
 	// 1. Array Declaration
